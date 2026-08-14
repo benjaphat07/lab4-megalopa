@@ -1,0 +1,14 @@
+{
+  "group_members": "benjaphat",
+  "section": 2,
+  "group": 11,
+  "fork_url": "https://github.com/benjaphat07/lab4-megalopa.git",
+  "github_username_for_push": "benjaphat07",
+  "model_pt": "student_work/models/sec02_group11_megalopa_yolo26n_best.pt",
+  "model_onnx": "student_work/models/sec02_group11_megalopa_yolo26n_best.onnx",
+  "Precision": 0.771404896279609,
+  "Recall": 0.2564102564102564,
+  "mAP@50": 0.2791357666600586,
+  "mAP@50-95": 0.1483245641804439,
+  "Training time (seconds)": 106.4158694329999
+}
